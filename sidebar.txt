@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[moc:home|Door43 (moc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-moc|d43-moc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-moc/archive/master.zip|d43-moc.zip]]
+
+**Recent Changes**
+{{changes>ns = moc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/moc|Ethnologue data]]
+
